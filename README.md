@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- Пишу на Go, люблю контурные карты от Paradox и Umamusume
+
 <!--
 **MikebangSfilya/MikebangSfilya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
